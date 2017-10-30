@@ -1,0 +1,22 @@
+BUILDS		CHANGE
+
+2.0
+001-002		Multiple first beta bug fix's
+003			Multiple instance loading prevented
+			Pin access for inactive employees
+			Added build version on help menu
+004			Big report errors fixed -	Set fee and cost of service not work together
+									-	Does not ignore service fee if already in db if option changed
+			'Requires Visit Notes' changed to 'Need Visit Details' in popup
+005			Above bug was not displayed on the main page, just the drilldown 
+			Also fixed this for the weeks drill down
+006-007		-Tax issue when items sold tax free
+			-Fixed currency issues
+			-Removed service sales from sundry total
+010			-Corrected pay seriese full errors
+			-Pin 7.3 issue
+011			-Tax on discounts issue
+012			-Fixed Tax on drill down
+			-Added details into the pay slip
+			-Expanded the decimal place option
+018			-Report issues - cumcom referencing wrong command object past 5 band on all 3 reports

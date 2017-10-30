@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+<!--
+	ExtendedCommReport.resx - Tax Strings
+-->
+<root>
+	<data name="Reports.ExtendedCommReport.ReportTitle" >
+		<value>??</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Employee" >
+		<value>Employee *</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Clients" >
+		<value>Clients</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Request" >
+		<value>Request</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Pay" >
+		<value>Pay</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Requests" >
+		<value>Requests</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Total" >
+		<value>Total</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Take" >
+		<value>Take</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Retail" >
+		<value>Retail</value>
+	</data>	
+
+	<data name="Reports.ExtendedCommReport.Hours" >
+		<value>Hours</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Worked" >
+		<value>Worked</value>
+	</data>	
+
+	<data name="Reports.ExtendedCommReport.Wages" >
+		<value>Wages</value>
+	</data>	
+
+	<data name="Reports.ExtendedCommReport.ReportTotal" >
+		<value>Report Total</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.ReportSettings" >
+		<value>Report Settings</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.CalculationPeriod" >
+		<value>Calculation Period:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.CommissionSplit" >
+		<value>Commission Split:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Stylist" >
+		<value>Stylist</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Receptionist" >
+		<value>Receptionist</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.CommissionType" >
+		<value>Commission Type:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.WageSchedule" >
+		<value>Wage Schedule:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.BillFee" >
+		<value>Bill Fee:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Sundry" >
+		<value>Sundry</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Technical" >
+		<value>Technical</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Referal" >
+		<value>Referal</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Commission" >
+		<value>Commission</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Commission+Tips" >
+		<value>Commission + Tips</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TipsProcessing" >
+		<value>Tips Processing:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RemoveCostOfService" >
+		<value>Remove Cost of Service:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RemoveCostOfStock" >
+		<value>Remove Cost of Stock:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RetailCommission" >
+		<value>Retail Commission:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.BandingType" >
+		<value>Banding Type:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.PayServiceFullPrice" >
+		<value>Pay Service Full Price:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Tax" >
+		<value>Tax:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Information" >
+		<value>*Click on an employee for a detailed breakdown</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.From" >
+		<value>From:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.To" >
+		<value>To:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TimePeriod" >
+		<value>Time Period:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Amount" >
+		<value>Amount</value>
+	</data>
+	
+	<data name="Reports.ExtendedCommReport.Deductions" >
+		<value>Deductions</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Adjusted" >
+		<value>Adjusted</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Commission" >
+		<value>Commission</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.AllClients" >
+		<value>All Clients</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RequestClients" >
+		<value>Request Clients</value>
+	</data>
+	
+	<data name="Reports.ExtendedCommReport.Service" >
+		<value>Service</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.NonTechnical" >
+		<value>Non Technical</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Technical" >
+		<value>Technical</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RetailCreditedToEmployee" >
+		<value>Retail (Credited to Employee)</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Rate1" >
+		<value>Rate 1</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Rate2" >
+		<value>Rate 2</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Rate3" >
+		<value>Rate 3</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Rate4" >
+		<value>Rate 4</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Rate5" >
+		<value>Rate 5</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.RetailTillOperatorOnly" >
+		<value>Retail (Till Operator Only)</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.AdjustedRetailTotal" >
+		<value>Adjusted Retail Total</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Tip" >
+		<value>Tip</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TotalCommission" >
+		<value>TOTAL COMMISSION</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TotalWage" >
+		<value>TOTAL WAGE</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.HourlyRate" >
+		<value>Hourly Rate:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.HoursWorked" >
+		<value>Hours Worked:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.BasicWage" >
+		<value>Basic Wage:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.ToPay" >
+		<value>TO PAY</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band1" >
+		<value>Band 1</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band2" >
+		<value>Band 2</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band3" >
+		<value>Band 3</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band4" >
+		<value>Band 4</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band5" >
+		<value>Band 5</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band6" >
+		<value>Band 6</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band7" >
+		<value>Band 7</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Band8" >
+		<value>Band 8</value>
+	</data>
+	
+	<data name="Reports.ExtendedCommReport.Services" >
+		<value>Services</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.LowerLimit" >
+		<value>Lower Limit</value>
+	</data>
+	
+	<data name="Reports.ExtendedCommReport.Percentage" >
+		<value>Percentage</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.PeriodSummary" >
+		<value>Period Summary</value>
+	</data>
+
+
+	<data name="Reports.ExtendedCommReport.OtherSales:" >
+		<value>Other Sales:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TakingsPerClient" >
+		<value>Takings per Client</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TakingsPerHour" >
+		<value>Takings per Hour</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TotalPay:" >
+		<value>TOTAL PAY:</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.WeekEnding" >
+		<value>Week Ending </value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Includes" >
+		<value>Includes</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Excludes" >
+		<value>Excludes</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Yes" >
+		<value>Yes</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.No" >
+		<value>No</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Cumulative" >
+		<value>Cumulative</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Target" >
+		<value>Target</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Line" >
+		<value>Line</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Bands" >
+		<value>Bands</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Roster" >
+		<value>Roster</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Logged" >
+		<value>Logged</value>
+	</data>
+	
+	<data name="Reports.ExtendedCommReport.Weekly" >
+		<value>Weekly</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.SameAsReportPeriod" >
+		<value>Same as Report Period</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.ReferChemicalOnly" >
+		<value>Refer Chemical Only</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.DoNotReferChemicalOnly" >
+		<value>Do Not Refer Chemical Only</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.ClientCount" >
+		<value>Client Count</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.OnlyCountRequestClients" >
+		<value>Only Count Request Clients</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.DoNotCountRequestClientsOnly" >
+		<value>Do Not Count Request Clients Only</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Chemical" >
+		<value>Chemical</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.Refer" >
+		<value>Refer</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.ExcludeTips" >
+		<value>Exclude Tips</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.IncludeTipsAndPayThem" >
+		<value>Include Tips and Pay Them</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.TipsFee" >
+		<value>Tips Fee</value>
+	</data>
+
+	<data name="Reports.ExtendedCommReport.IncludeTipsAndDoNotPayThem" >
+		<value>Include Tips and do not Pay Them</value>
+	</data>
+</root>

@@ -1,0 +1,2 @@
+"C:\Program Files\Microsoft SQL Server\80\Tools\BINN\OSQL" -S "(local)\shortcutspos" -E -d ShortcutsPOS -i "pos_scripts_pre_deployment.sql" -c
+copy POSBankReport.rpt "c:\program files\shortcuts software\point of sale\reports" /Y

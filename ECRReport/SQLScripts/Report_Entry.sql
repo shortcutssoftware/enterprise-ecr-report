@@ -1,0 +1,11 @@
+DECLARE @REPORTID INT
+SELECT 	@REPORTID = MAX([ID NUMBER]) FROM REPORTS WHERE [ID NUMBER] BETWEEN 900 and 950
+
+SET @REPORTID = @REPORTID + 1
+
+DELETE FROM REPORTS WHERE [FILENAME] = 'ExtendedCommReport'
+
+INSERT REPORTS([ID NUMBER], [NAME], [DEFAULT TYPE], GRAPHICAL, [DESCRIPTION], [FILENAME], [BITMAP], 
+	REPORTCATEGORY, [TEMP TABLE FUNCTION], [INDUSTRY ID], CLIENTID, ACTIVE)
+VALUES (@REPORTID, 'Extended Commissions Report', 0, 0, 'Extended commissions report based on the settings made within the commissions application', 'ExtendedCommReport', NULL,
+	3, NULL, 1, 0, 1)

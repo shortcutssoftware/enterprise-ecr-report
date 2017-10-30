@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEACABoBQAAFgAAACgAAAAQAAAAIAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAIn/AOvCAAAAIv8AAP8AAOCzAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAMDAwMDAAQEBAQEAAUFBQUDAwMDAwAEBAQEBAAFBQUFAwMDAwMABAQEBAQABQUFBQMD
+        AwMDAAQEBAQEAAUFBQUDAwMDAwAEBAQEBAAFBQUFAAAAAAAAAAAAAAAAAAAAAAEBAQEBAAICAgICAAAA
+        AAABAQEBAQACAgICAgAAAAAAAQEBAQEAAgICAgIAAAAAAAEBAQEBAAICAgICAAAAAAABAQEBAQACAgIC
+        AgAAAAAAAAAAAAAAAAAAAAAAAAAAAP//AAD//wAA//8AAP//AAAEEAAABBAAAAQQAAAEEAAABBAAAP//
+        AAAEEwAABBEAAAQZAAAEHQAABBsAAP//AAA=
+</value>
+  </data>
+  <data name="lbAdditionalType.Text" xml:space="preserve">
+    <value>Tipos Adicionales</value>
+  </data>
+  <data name="lbBandingType.Text" xml:space="preserve">
+    <value>Tipo de Escalado</value>
+  </data>
+  <data name="lbBands.Text" xml:space="preserve">
+    <value>Escalados</value>
+  </data>
+  <data name="lbCalcPeriod.Text" xml:space="preserve">
+    <value>Periodo de Calculo</value>
+  </data>
+  <data name="lbExit.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="lbFallBackWage.Text" xml:space="preserve">
+    <value>Comision en relacion al salario</value>
+  </data>
+  <data name="lbHelp.Text" xml:space="preserve">
+    <value>Ayuda</value>
+  </data>
+  <data name="lbPayServiceSales.Text" xml:space="preserve">
+    <value>Pagar los Bonos al precio completo</value>
+  </data>
+  <data name="lbPayTips.Text" xml:space="preserve">
+    <value>Pagar propinas</value>
+  </data>
+  <data name="lbReceptionist.Text" xml:space="preserve">
+    <value>Recepcionista</value>
+  </data>
+  <data name="lbReferChemOnly.Text" xml:space="preserve">
+    <value>Por recomendacion de servicios tecnicos</value>
+  </data>
+  <data name="lbRemoveCostProd.Text" xml:space="preserve">
+    <value>Elimina el coste del producto</value>
+  </data>
+  <data name="lbRemoveCostService.Text" xml:space="preserve">
+    <value>Elimina el coste del servicio</value>
+  </data>
+  <data name="lbRequestClientTarget.Text" xml:space="preserve">
+    <value>Objetivo en solicitudes de cliente</value>
+  </data>
+  <data name="lbRetailComm.Text" xml:space="preserve">
+    <value>Comisiones en ventas</value>
+  </data>
+  <data name="lbRetailSplit.Text" xml:space="preserve">
+    <value>Reparticion de la comision en venta de producto</value>
+  </data>
+  <data name="lbSave.Text" xml:space="preserve">
+    <value>Guardar</value>
+  </data>
+  <data name="lbSetFeeBill.Text" xml:space="preserve">
+    <value>Marcar una tarifa por tiquet</value>
+  </data>
+  <data name="lbStylist.Text" xml:space="preserve">
+    <value>Estilista</value>
+  </data>
+  <data name="lbTax.Text" xml:space="preserve">
+    <value>Impuesto</value>
+  </data>
+  <data name="lbTipsFee.Text" xml:space="preserve">
+    <value>Tarifa de propinas</value>
+  </data>
+  <data name="lbTipsProcessing.Text" xml:space="preserve">
+    <value>Proceso de propinas</value>
+  </data>
+  <data name="lbTitle.Text" xml:space="preserve">
+    <value>Configuracion del informe de comisiones</value>
+  </data>
+  <data name="lbWageSchedule.Text" xml:space="preserve">
+    <value>Tabla de salarios</value>
+  </data>
+  <data name="rbBandCum.Text" xml:space="preserve">
+    <value>Acumulativo</value>
+  </data>
+  <data name="rbBandTarget.Text" xml:space="preserve">
+    <value>Objetivo</value>
+  </data>
+  <data name="rbCostN.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbCostStockN.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbCostStockY.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="rbCostY.Text" xml:space="preserve">
+    <value>Si  (pop-up screen)...</value>
+  </data>
+  <data name="rbExcludeTips.Text" xml:space="preserve">
+    <value>Excluye propinas</value>
+  </data>
+  <data name="rbFallN.Text" xml:space="preserve">
+    <value>Salario + Comis.</value>
+  </data>
+  <data name="rbFallY.Text" xml:space="preserve">
+    <value>Variable (pop-up screen)...</value>
+  </data>
+  <data name="rbGoalNo.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbGoalY.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="rbIncludeTips.Text" xml:space="preserve">
+    <value>Incluir propinas...</value>
+  </data>
+  <data name="rbPayServiceN.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbPayServiceY.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="rbPeriodPay.Text" xml:space="preserve">
+    <value>El mismo que el periodo del informe</value>
+  </data>
+  <data name="rbPeriodWeekly.Text" xml:space="preserve">
+    <value>Semanal</value>
+  </data>
+  <data name="rbRefN.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbRefY.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="rbRetailLine.Text" xml:space="preserve">
+    <value>Linea  (pop-up screen)...</value>
+  </data>
+  <data name="rbSerBand.Text" xml:space="preserve">
+    <value>Usar Escalados</value>
+  </data>
+  <data name="rbTaxExclude.Text" xml:space="preserve">
+    <value>Excluir Impuestos</value>
+  </data>
+  <data name="rbTaxInclude.Text" xml:space="preserve">
+    <value>Incluir Impuestos</value>
+  </data>
+  <data name="rbTipComN.Text" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="rbTipComY.Text" xml:space="preserve">
+    <value>Si</value>
+  </data>
+  <data name="rbTypeChem.Text" xml:space="preserve">
+    <value>Quimicos</value>
+  </data>
+  <data name="rbTypeClienC.Text" xml:space="preserve">
+    <value>Recuento de cliente...</value>
+  </data>
+  <data name="rbTypeRef.Text" xml:space="preserve">
+    <value>Referido...</value>
+  </data>
+  <data name="rbTypeSun.Text" xml:space="preserve">
+    <value>Extra</value>
+  </data>
+  <data name="rbWageLog.Text" xml:space="preserve">
+    <value>Horas conectado</value>
+  </data>
+  <data name="rbWageRos.Text" xml:space="preserve">
+    <value>Horario</value>
+  </data>
+</root>

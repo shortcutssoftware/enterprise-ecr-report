@@ -1,0 +1,7 @@
+Whats New in 2.0
+
+-Pin protection system if security is turned on (user must have access to alter emp. details)
+-Help File paced on the main page
+-Logging of loginin attempts into the log table
+-Re-designed user interface
+-Now removed the payment of breaktimes within the commission calculation
